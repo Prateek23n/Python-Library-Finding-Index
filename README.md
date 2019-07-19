@@ -1,0 +1,2 @@
+# Python-Library-Finding-Index
+find() function in python has one disadvantage as it won't allow to access all the elements and find the character which one has to search. It returns only the lowest index i.e. where first time it has occurred in the string.But the this find_all() module will eradicate this disadvantage and will show the list of indices where the character searched for has occurred. If the character is not in the string it will return -1.
