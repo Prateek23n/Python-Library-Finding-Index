@@ -1,4 +1,4 @@
-def find_all(s,c):
+def find_all(s,c=' '):
     l=[]
     t=0
     #print("s:",s)
